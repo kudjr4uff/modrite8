@@ -1,10 +1,10 @@
 # Specifikācijas
 
-##Risinājuma apraksts
+## Risinājuma apraksts
 Risinājums palīdzet skoleniem vieksmigi pabeigt skolu.Nosaukums būs
-###Knowledge Tracker###
+***Knowledge Tracker***
 
-##Tehniskas specifikācijas
+## Tehniskas specifikācijas
 Iztrādē izmantosim sekojošas tehnoloģijas:
 -HTML/CSS
 -JavaSript
